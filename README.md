@@ -15,3 +15,6 @@ I started this repository in order to have a more immediate access to the templa
 5. On the dialog window that will open, select the folder that you just downloaded
 
 ### Saal Digital export
+In order to properly export the photobooks for Saal Digital, here are my reccomendations:
+- Be sure that the the colour profile is set to *sRBG IEC619666-2.1*
+- Check that the option *Include Bleed* is selected in the export dialog window
